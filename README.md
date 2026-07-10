@@ -11,4 +11,4 @@ In this project various elementary ANNs (elementary classifiers) were created to
 
 High quality data were generated with the help of codes kept within the fodler titled `Data_genereate_Code' in this repository. 
 
-The Data which were directly used can be found on this public Kaggle repository - https://doi.org/10.34740/kaggle/dsv/2957834
+The Dataset which was directly used can be found on this public Kaggle repository - https://doi.org/10.34740/kaggle/dsv/2957834
