@@ -1,3 +1,13 @@
 # Machine learning of Ising criticality with spin-shuffling
 
-This repository contains codes which were used in the paper `Machine learning of Ising criticality with spin-shuffling' [https://arxiv.org/abs/2203.04012v2] Authors: Pallab Basu, Jyotirmoy Bhattacharya [jyotirmoy.phys@gmail.com], Dileep Pavan Surya Jakka, Chuene Mosomane, Vishwanath Shukla. 
+## Authors: Pallab Basu, Jyotirmoy Bhattacharya [jyotirmoy.phys@gmail.com], Dileep Pavan Surya Jakka, Chuene Mosomane, Vishwanath Shukla. 
+
+This repository contains codes which were used in the paper `Machine learning of Ising criticality with spin-shuffling' [https://arxiv.org/abs/2203.04012] 
+
+In this project various elementary ANNs (elementary classifiers) were created to identify the phases and in particular the critical region of the 2D Ising model with NN as well as NNN interactions. 
+
+# Data
+
+High quality data were generated with the help of codes kept within the fodler titled `Data_genereate_Code' in this repository. 
+
+The Data which were directly used can be found on this public Kaggle repository - https://doi.org/10.34740/kaggle/dsv/2957834
