@@ -17,4 +17,4 @@ The Dataset which was directly used can be found on this public Kaggle repositor
 
 All the codes which were used to make the plots in the paper can be found within the folder "Codes". 
 
-**final-v0-mag-chi-xi.ipynb** : Generates the figures 2,3 and 4 in the paper. It takes the generated data as input and computes the magnetization, susceptibility and Correlation length. 
+**final-v0-mag-chi-xi.ipynb** : Generates the figures 2,3 and 4 in the paper. It takes the generated data as input and computes the magnetization, susceptibility and Correlation length. This file was created to run in Kaggle. The initialization and Data file inputs reflect this. 
