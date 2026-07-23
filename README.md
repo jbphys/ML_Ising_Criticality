@@ -15,6 +15,10 @@ The Dataset which was directly used can be found on this public Kaggle repositor
 
 # Codes
 
-All the codes which were used to make the plots in the paper can be found within the folder "Codes". 
+All the codes which were used to make the plots in the paper can be found within the folder "Codes". These codes were created to run on Kaggle. The initialization and Data file inputs reflect this. 
 
-**final-v0-mag-chi-xi.ipynb** : Generates the figures 2,3 and 4 in the paper. It takes the generated data as input and computes the magnetization, susceptibility and Correlation length. This file was created to run in Kaggle. The initialization and Data file inputs reflect this. 
+**final-v0-mag-chi-xi.ipynb** : Generates the figures 2,3 and 4 in the paper. It takes the generated data as input and computes the magnetization, susceptibility and Correlation length. 
+
+**Critical_prediction**: This folder contains the codes which tests the prediction of the critical region. The plots in the Figures 6, 7 and 8 of the paper were constructed using the codes in this folder. 
+
+**Phase Prediction**: The Phase prediction accuracies reported in tables II and III were obtained with the codes within this folder. 
